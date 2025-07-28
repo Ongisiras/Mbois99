@@ -6,12 +6,49 @@
 #############################################################################################################
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",AFF U-23 1
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1247933
- 
+http://filex.tv:8080/alamgirbhai/431977/302264
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",AFF u-23 2
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1131941
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:5c:9d:10&stream=1163656&extension=m3u8
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF u23 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
  
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",AFF u23 3
-http://goldenpro.xyz:80/VUVZ89R/4EXX322/1131942
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF u23 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", Astro SuperSport 1
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport1
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", Astro SuperSport 2
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport2
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", Astro SuperSport 3
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport3
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", Astro SuperSport 4
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport4
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitdBUMjz82wNeGUGgmBJMou2Vjak3T6LAvNHKCCpxhq1Vvj0-FeqJj2GXK2JtrWpn3J4fGCrP9gzlvfYX8OEpJ3eJ27AoRPpC9GD8ZOPmdQE2q_8pDo_RVJMpw9ZXAi86eLvhbndSZAm4LiQqKaqxL-_Pc7XHdKZ7TOiQ7T07EEST5_R8rS9zlSFUlpDX1/s700/PREMIER%20LEAGUE.png" group-title="LIVE SPORTS",PREMIER LEAGUE 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -76,6 +113,48 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 1 Bar DE
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN1BarDE
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 2 Bar DE
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN2BarDE
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 1 Spain
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN1Spain
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 2 Spain
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN2Spain
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 3 Spain
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN3Spain
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 4 Spain
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN4Spain
 
 #############################################################################################################
 ##########################################   National TV   ##################################################
@@ -1194,6 +1273,65 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 
+#############################################################################################################
+#########################################  ELEVEN SPORTS  ##################################################
+############################################################################################################
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 1 Poland
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports1Poland
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 2 Poland
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports2Poland
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 3 Poland
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports3Poland
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 1 Portugal
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports1Portugal
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 2 Portugal
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports2Portugal
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 3 Portugal
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports3Portugal
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 4 Portugal
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports4Portugal
+
+#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 5 Portugal
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
+#EXTVLCOPT:http-origin=https://yoxplay.xyz
+https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports5Portugal
 #############################################################################################################
 ##########################################  Extra Movies  ###################################################
 #############################################################################################################
