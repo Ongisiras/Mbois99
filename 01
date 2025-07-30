@@ -4,24 +4,7 @@
 #############################################################################################################
 #######################################    LIVE EVENT   #####################################################
 #############################################################################################################
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",AFF U-23 1
-http://goldenpro.xyz:80/VUVZ89R/4EXX322/1247933
-http://filex.tv:8080/alamgirbhai/431977/302264
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",AFF u-23 2
-http://goldenpro.xyz:80/VUVZ89R/4EXX322/1131941
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:5c:9d:10&stream=1163656&extension=m3u8
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF u23 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
- 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752453259/j9dv431zshwo00i1qbpv.jpg",LIVE AFF u23 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
- 
 #EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", Astro SuperSport 1
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
