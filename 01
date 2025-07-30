@@ -47,14 +47,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHrR77tN7awKu1g-mOISefuRimAT3AoGLq-VwzFtz_YdHSPbJOi9Ct5_mA70ZzL6oqNvMzN-X-WffpPXce6-26kWKe18g_9tTb8dbLDomU_a91VjpdwGjY0lI4TSC-8UtDedFb5AXxxuETZJX3WtnT1YjyKXEOmtDFngrQQ8o5rBI81U-mPv7NHZCCVN4/s700/BUNDESLIGA.png" group-title="LIVE SPORTS",BUNDESLIGA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
-
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE SPORTS", beIN Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -97,42 +89,42 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 1 Bar DE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="LIVE SPORTS", DAZN 1 Bar DE
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN1BarDE
 
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 2 Bar DE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="LIVE SPORTS", DAZN 2 Bar DE
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN2BarDE
 
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 1 Spain
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="LIVE SPORTS", DAZN 1 Spain
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN1Spain
 
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 2 Spain
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="LIVE SPORTS", DAZN 2 Spain
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN2Spain
 
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 3 Spain
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="LIVE SPORTS", DAZN 3 Spain
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN3Spain
 
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="LIVE SPORTS", DAZN 4 Spain
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="LIVE SPORTS", DAZN 4 Spain
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
