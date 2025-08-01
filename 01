@@ -1301,6 +1301,35 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 
+###############################################################################################################
+###########################################    TRUE SPORTS  ##################################################
+#############################################################################################################
+#EXTINF:-1 group-title="True Sports" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="True Sports" tvg-id="truepremierfootball2.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Premier 2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="True Sports" tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",True Premier 3
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="True Sports" tvg-id="truepremierfootball4.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",True Premier 4
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="True Sports" tvg-id="truepremierfootball5.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",True Premier 5
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+
+
 #############################################################################################################
 #########################################  ELEVEN SPORTS  ##################################################
 ############################################################################################################
@@ -1360,6 +1389,55 @@ https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports4Portugal
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports5Portugal
+
+##########################################################################################################3##
+################################    DIGI & PRIMA SPORTS  ############################################################
+#############################################################################################################
+#EXTINF:-1 tvg-id="Digi.Sport.1.ro" group-title="Digi Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport1.png",DIGI SPORT 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
+#EXTVLCOPT:http-origin=https://allupplay.xyz 
+https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8 
+
+#EXTINF:-1 tvg-id="Digi.Sport.2.ro" group-title="Digi Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport2.png",DIGI SPORT 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
+#EXTVLCOPT:http-origin=https://allupplay.xyz 
+https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8 
+
+#EXTINF:-1 tvg-id="Digi.Sport.3.ro" group-title="Digi Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport3.png",DIGI SPORT 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
+#EXTVLCOPT:http-origin=https://allupplay.xyz 
+https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8 
+
+#EXTINF:-1 tvg-id="Digi.Sport.4.ro" group-title="Digi Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport4.png",DIGI SPORT 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
+#EXTVLCOPT:http-origin=https://allupplay.xyz 
+https://nfsnew.newkso.ru/nfs/premium403/mono.m3u8 
+
+#EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="Prima Sport" tvg-name="Prima Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png",PRIMA SPORT 1 
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8 
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" group-title="Prima Sport" tvg-name="Prima Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/urbckf1656958338.png",PRIMA SPORT 2 
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8 
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" group-title="Prima Sport" tvg-name="Prima Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pirzmo1656958353.png",PRIMA SPORT 3 
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8 
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" group-title="Prima Sport" tvg-name="Prima Sport 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8yu0gp1656958366.png",PRIMA SPORT 4 
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
+
 #############################################################################################################
 ##########################################  Extra Movies  ###################################################
 #############################################################################################################
