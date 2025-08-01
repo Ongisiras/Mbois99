@@ -140,6 +140,14 @@ https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN4Spain
 ===========================================================CHAMPIONS_SPORT+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ##############################################################################################################################
 
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AiJ-zphX4BQ5qMx9OkNjVqfSxa8IiyGMig&s" group-title="CHAMPIONS_SPORT",Champions TV 1 A 🟡
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AiJ-zphX4BQ5qMx9OkNjVqfSxa8IiyGMig&s" group-title="CHAMPIONS_SPORT",CAMPIONE TV 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
