@@ -153,6 +153,10 @@ https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN3Spain
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN4Spain
 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/TVRI-Sport-HD.png" group-title="LIVE SPORTS",TVRI SPORT
+https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/tvrisporttv.m3u8
+
 ##############################################################################################################################
 ===========================================================CHAMPIONS_SPORT+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ##############################################################################################################################
