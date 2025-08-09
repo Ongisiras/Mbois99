@@ -4,11 +4,6 @@
 #############################################################################################################
 #######################################    LIVE EVENT   #####################################################
 #############################################################################################################
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",Liga BRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fgs37g8.xyz/token-dk4tyeOcLP%2BG7mEsx%2FY6nz2BlMDWhSzjbnCukvBKEDD04raeHUFdD44qqBRBXk9JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/2n16prornUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_612055.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHT6J47YxWpqQnIj3aQ9kTTAYDymbyD5uFwhvSZ6ZKzBkW71ZT8qWIb7eG&s=10" group-title="LIVE SPORTS", ABU DHABI SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
@@ -18,12 +13,6 @@ https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/astro.jpg",EPL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; en-US; Nexus 6 Build/LMY47Z) MXPlayer/1.7.39
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/601/default_ott.mpd
 
 #EXTINF:-1 tvg-id="DAZN 1.it" tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="LIVE SPORTS" , DAZN 1 🇮🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
