@@ -20,34 +20,45 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
 
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-id="dubaisports3.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png" group-title="LIVE SPORTS", Astro Grandstand
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport1
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-id="dubaisports2.ae" tvg-logo="https://babaktv.com/wp-content/uploads/2022/06/Dubai-Sport-2.jpg",Dubai Sports 2
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_%28Oct_2024%29.png/revision/latest?cb=20241121183458" group-title="LIVE SPORTS", Astro Football
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport2
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-id="dubaisports3.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",Dubai Sports 3
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Astro_Premier_League_%28Oct_2024%29.png/revision/latest?cb=20241121183051" group-title="LIVE SPORTS", Astro Premier League
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport3
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmWpTYFzfsZH7DXC2NHMo5QHTKn8uwQPuiQdUL5z_U2sKjoEkU4gpX35Rqk9xworkRv1Yz1gP2poXUngI8A_LIEfz84Fny4q5cn5iFbShpqSKzGv5n_Sjaz4khH8-lX35h3HXwpiZnk8uxl09x2Ved5BIp9GZKQBmuymDJaj4REVpDczWFPjr4S-3pnlv0/s700/PEACOCK%20TV.png" group-title="LIVE SPORTS", PEACOCK TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="LIVE SPORTS", Astro Premier League 2
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=AstroSuperSport4
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="LIVE SPORTS" ,Prima Sport 1 
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="LIVE SPORTS" ,Prima Sport 2 
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="LIVE SPORTS" ,Prima Sport 3 
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="LIVE SPORTS" ,Prima Sport 4 
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="LIVE SPORTS",Astro Football
+https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitdBUMjz82wNeGUGgmBJMou2Vjak3T6LAvNHKCCpxhq1Vvj0-FeqJj2GXK2JtrWpn3J4fGCrP9gzlvfYX8OEpJ3eJ27AoRPpC9GD8ZOPmdQE2q_8pDo_RVJMpw9ZXAi86eLvhbndSZAm4LiQqKaqxL-_Pc7XHdKZ7TOiQ7T07EEST5_R8rS9zlSFUlpDX1/s700/PREMIER%20LEAGUE.png" group-title="LIVE SPORTS",PREMIER LEAGUE 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -105,99 +116,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="LIVE SPORTS", DAZN 1 Bar DE
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN1BarDE
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="LIVE SPORTS", DAZN 2 Bar DE
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN2BarDE
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="LIVE SPORTS", DAZN 1 Spain
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN1Spain
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="LIVE SPORTS", DAZN 2 Spain
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN2Spain
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DAZN_3.svg" group-title="LIVE SPORTS", DAZN 3 Spain
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN3Spain
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="LIVE SPORTS", DAZN 4 Spain
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=DAZN4Spain
-
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/TVRI-Sport-HD.png" group-title="LIVE SPORTS",TVRI SPORT
 https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/tvrisporttv.m3u8
 
-##############################################################################################################################
-===========================================================CHAMPIONS_SPORT+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-##############################################################################################################################
-
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AiJ-zphX4BQ5qMx9OkNjVqfSxa8IiyGMig&s" group-title="CHAMPIONS_SPORT",Champions TV 1 A 🟡
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AiJ-zphX4BQ5qMx9OkNjVqfSxa8IiyGMig&s" group-title="CHAMPIONS_SPORT",CAMPIONE TV 1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
-https://halu.serv00.net/satu.mpd?id=6685
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AiJ-zphX4BQ5qMx9OkNjVqfSxa8IiyGMig&s" group-title="CHAMPIONS_SPORT",CAMPIONE TV 2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
-https://halu.serv00.net/satu.mpd?id=6686
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AiJ-zphX4BQ5qMx9OkNjVqfSxa8IiyGMig&s" group-title="CHAMPIONS_SPORT",CAMPIONE TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
-https://halu.serv00.net/satu.mpd?id=6786
- 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AiJ-zphX4BQ5qMx9OkNjVqfSxa8IiyGMig&s" group-title="CHAMPIONS_SPORT",CAMPIONE TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-https://halu.serv00.net/satu.mpd?id=9182
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AiJ-zphX4BQ5qMx9OkNjVqfSxa8IiyGMig&s" group-title="CHAMPIONS_SPORT",CAMPIONE TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://halu.serv00.net/satu.mpd?id=9183
 
 #############################################################################################################
 ##########################################   National TV   ##################################################
@@ -1316,57 +1238,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 
-###############################################################################################################
-###########################################    TRUE SPORTS  ##################################################
-#############################################################################################################
-#EXTINF:-1 group-title="True Sports" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="True Sports" tvg-id="truepremierfootball2.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Premier 2
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="True Sports" tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",True Premier 3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="True Sports" tvg-id="truepremierfootball4.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",True Premier 4
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="True Sports" tvg-id="truepremierfootball5.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",True Premier 5
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
-
-#############################################################################################################
-################################    AVC LIVE   #############################################################
-###########################################################################################################
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
-#EXTINF:-1 group-title="AVC live" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/avc.jpg",AVC live 1
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
-#EXTINF:-1 group-title="AVC live" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/avc.jpg",AVC live 2
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
-#EXTINF:-1 group-title="AVC live" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/avc.jpg",AVC live 3
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi3.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
-#EXTINF:-1 group-title="AVC live" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/avc.jpg",AVC live 4
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/pl_sdi4.mpd
-
 ##############################################################################################################
 #######################################  SKY SPORTS  ######################################################
 #########################################################################################################
@@ -1431,166 +1302,10 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd
 https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd
 
 
-#############################################################################################################
-#########################################  ELEVEN SPORTS  ##################################################
-############################################################################################################
-
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 1 Poland
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports1Poland
-
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 2 Poland
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports2Poland
-
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 3 Poland
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports3Poland
-
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 1 Portugal
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports1Portugal
-
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 2 Portugal
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports2Portugal
-
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 3 Portugal
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports3Portugal
-
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 4 Portugal
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports4Portugal
-
-#EXTINF:-1 tvg-logo="https://www.wirelesshack.org/wp-content/uploads/2023/02/How-To-Install-Daddy-Live-Kodi-Addon.jpg" group-title="ELEVEN SPORTS", Eleven Sports 5 Portugal
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://yoxplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://yoxplay.xyz/
-#EXTVLCOPT:http-origin=https://yoxplay.xyz
-https://triwied.serv00.net/daddy/rondotuo.m3u8?id=ElevenSports5Portugal
-
-############################################################################################################
-##########################################  OPTUS SPORT   #################################################
-###########################################################################################################
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2db8ec9fcc1bf1cebb260800bbff5d1d:31d4a7d5a32bb635b11bbc929f75bcba
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 1 HD
-https://optus.apigateway.web.id/optus/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33b53c1b0da6767644880f1fb643816e:4f6f753134fa24314e611973432e124d
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 2 HD
-https://optus.apigateway.web.id/optus/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6b2c1aa0db912dbbcd5d0dc12821e10:ed03a87a8910e7737db55b164e7f0351
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 3 HD
-https://optus.apigateway.web.id/optus/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3774467bf77893b5a4895b363fd64c3:79f8e69317e4c13bd9667e2f43a6c60d
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 4 HD
-https://optus.apigateway.web.id/optus/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=446084cc113687c9e4bec85890096589:e8c57936c8137bf7c0060f21c1dbe999
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 5 HD
-https://optus.apigateway.web.id/optus/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bc0ea19e2427776032e782e62d7dfc:816033a4ba5e1484866768c4c1edb9e7
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 6 HD
-https://optus.apigateway.web.id/optus/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b70ffd90c21839cff64da347ff65a42:944a0a3f8a7475ec9ed79caa57a241a2
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 7 HD
-https://optus.apigateway.web.id/optus/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fc592480df393a038be32d137d991ef:47809adce3b46ae03f652bf18ed81b40
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",OPTUS SPORT 8 HD
-https://optus.apigateway.web.id/optus/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94bd14876689a529516017e35638d51a:32b1813bc43d17d6623a306a9513bb7a
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 11 Premier League Channel
-https://optus.apigateway.web.id/optus/v7/OptusSport11/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5bff31e797c41fc8254ec6697cbf866:bc4b3c6dd1dd5b9b5f2e23230e334609
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 402
-https://optus.apigateway.web.id/optus/v7/OptusSport402/ip/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4519aa4416f3488aa6a1d427c2948cad:d252a4a506ae464e990ad43e9ebf5408
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 403
-https://optus.apigateway.web.id/optus/v7/OptusSport403/ip/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebfeae2f8bd542e2a3d3a1048f7aab4e:c923bad117b1a4fb622bf9e03d56c6ec
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 404
-https://optus.apigateway.web.id/optus/v7/OptusSport404/ip/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86e024c16b0c4dedb67b5065e4d03d60:6f8d60b5e39c5ee282bb040572f66e86
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 405
-https://optus.apigateway.web.id/optus/v7/OptusSport405/ip/drm/avc/dash/plain/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09e3d85758d34aaab97390163c95d03b:22d8a986071d2950a2750a039e1761f8
-#EXTINF:-1 group-title="OPTUS SPORT" tvg-id="" tvg-logo="https://caranytv.shop/LOGO/optus.jpg",Optus Sport 406
-https://optus.apigateway.web.id/optus/v7/OptusSport406/ip/drm/avc/dash/plain/manifest.mpd
-
 
 ##########################################################################################################3##
 ################################    DIGI & PRIMA SPORTS  ############################################################
 #############################################################################################################
-#EXTINF:-1 tvg-id="Digi.Sport.1.ro" group-title="Digi Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport1.png",DIGI SPORT 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
-#EXTVLCOPT:http-origin=https://allupplay.xyz 
-https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8 
-
-#EXTINF:-1 tvg-id="Digi.Sport.2.ro" group-title="Digi Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport2.png",DIGI SPORT 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
-#EXTVLCOPT:http-origin=https://allupplay.xyz 
-https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8 
-
-#EXTINF:-1 tvg-id="Digi.Sport.3.ro" group-title="Digi Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport3.png",DIGI SPORT 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
-#EXTVLCOPT:http-origin=https://allupplay.xyz 
-https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8 
-
-#EXTINF:-1 tvg-id="Digi.Sport.4.ro" group-title="Digi Sport" tvg-logo="https://do-static-03-cdn.rcs-rds.ro/digionline/mobile-content/v12/images/droid/logo_tv_channel_sport_digisport4.png",DIGI SPORT 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/ 
-#EXTVLCOPT:http-origin=https://allupplay.xyz 
-https://nfsnew.newkso.ru/nfs/premium403/mono.m3u8 
 
 #EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="Prima Sport" tvg-name="Prima Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png",PRIMA SPORT 1 
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/ 
