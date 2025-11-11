@@ -10,13 +10,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e1bfeff452939168b7c44398f780821:2bddf9dc08051bac97ffa69bb852d1b1
- https://fifaplus-live.akamaized.net/eu-west-1/pu7350.egress.y83ueb/out/v1/Prod_CG_1/2025_10_31_09_45_14_0c6b3bd2-7c82-4008-8ecd-42759eab5b44/PROD_CMAF_CENC/index-dash.mpd
+https://fifaplus-live.akamaized.net/eu-west-1/pu7350.egress.y83ueb/out/v1/Prod_CG_1/2025_10_31_09_45_14_0c6b3bd2-7c82-4008-8ecd-42759eab5b44/PROD_CMAF_CENC/index-dash.mpd
  
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="PILDUN U17" , LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61d9bd84ae2534f594f6680eb9a16bd3:c0d895a0df7f696aaf110abc9302846b
- https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_46_22_c6f57953-174b-471e-9c00-16f86a00bf67/PROD_CMAF_CENC/index-dash.mpd
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_46_22_c6f57953-174b-471e-9c00-16f86a00bf67/PROD_CMAF_CENC/index-dash.mpd
  
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="PILDUN U17" , LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
