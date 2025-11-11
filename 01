@@ -4,19 +4,53 @@
 #############################################################################################################
 #######################################    LIVE EVENT   #####################################################
 #############################################################################################################
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png",LIGA BRI SUPER LEAGUE
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-http://103.179.182.117:6768/hls/56/56.m3u8
+######pildun u17#########
 
-#EXTINF:-1 tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="LIVE SPORTS", Indosiar
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="PILDUN U17" , LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e1bfeff452939168b7c44398f780821:2bddf9dc08051bac97ffa69bb852d1b1
+ https://fifaplus-live.akamaized.net/eu-west-1/pu7350.egress.y83ueb/out/v1/Prod_CG_1/2025_10_31_09_45_14_0c6b3bd2-7c82-4008-8ecd-42759eab5b44/PROD_CMAF_CENC/index-dash.mpd
+ 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="PILDUN U17" , LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61d9bd84ae2534f594f6680eb9a16bd3:c0d895a0df7f696aaf110abc9302846b
+ https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_46_22_c6f57953-174b-471e-9c00-16f86a00bf67/PROD_CMAF_CENC/index-dash.mpd
+ 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="PILDUN U17" , LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17df085413ef3515aeb08eb307442613:e42ddce6fa16033b194b754fb576569e
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_49_51_0798d42f-c4cc-4518-97e1-beaa6984225f/PROD_CMAF_CENC/index-dash.mpd
+ 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="PILDUN U17" , LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=780aa122c60732a88313577987dd19a5:0cbc9919030257f7b0f6dc4161a00731
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_48_57_d12938a9-9b3d-4066-8234-3aa461b4f4df/PROD_CMAF_CENC/index-dash.mpd
+ 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="PILDUN U17" , LIVE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a910a075d59132d79defbeefef5fd5a0:d1d6b33d096ae300498daa6fbfc7bd67
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_30_10_38_42_d5f984b6-2182-4c0a-9219-0cff0df2ae82/PROD_CMAF_CENC/index-dash.mpd
+ 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="PILDUN U17" , LIVE 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=120de3717b3f30509f08401c1932b4dd:9ea12431d439e7f2f09241def325fc3c
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_56_49_20d9b99e-0e84-4f35-98ab-674412179552/PROD_CMAF_CENC/index-dash.mpd
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="PILDUN U17" , LIVE 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f95bd0de1d430549e6a11c75dc89c4e:64f43e668dd7bcb703d95bc2d1165596
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_57_45_81759503-0f87-4809-a818-7aa94bd10cef/PROD_CMAF_CENC/index-dash.mpd
+
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png" group-title="LIVE SPORTS", Indosiar
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="LIVE SPORTS", Indosiar Event Bola
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://my.bhianesse.xyz/A1/kontol1/350972
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitdBUMjz82wNeGUGgmBJMou2Vjak3T6LAvNHKCCpxhq1Vvj0-FeqJj2GXK2JtrWpn3J4fGCrP9gzlvfYX8OEpJ3eJ27AoRPpC9GD8ZOPmdQE2q_8pDo_RVJMpw9ZXAi86eLvhbndSZAm4LiQqKaqxL-_Pc7XHdKZ7TOiQ7T07EEST5_R8rS9zlSFUlpDX1/s700/PREMIER%20LEAGUE.png" group-title="LIVE SPORTS",PREMIER LEAGUE 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
