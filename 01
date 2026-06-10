@@ -60,13 +60,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 #################################################################################################
 ##############  FIFA WORLD CUP  #########################
 
-#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="FIFA World Cup 2026", TVRI Nasional
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TVRI/playlist.m3u8
-
-#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="FIFA World Cup 2026", TVRI Sport
-http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCOzchAkDiIxwY9tbX-GXVS5UFx_lCeUeFTJ3_9iYG04syYmryQRY7XnhjXqEPIYF0rldOjyOJ3yBQgDkuRdjU3TtiFS8W_DyyvlkQHQ6pQvCTlLeRyBj2x5iVXZpywuiD2y5H7DeCiVdsgwSCUn_OWULmgMuK9-jp69aEYwxSTSsAWZczvcMcgg-epIkB/s700/CAZE%20TV.png" group-title="FIFA World Cup 2026",CAZE TV 1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
