@@ -18,7 +18,14 @@
 #EXTINF:-1 tvg-id="italyvsvenezuela0100foxsportsfhd" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="FIFA World Cup 2026" ,FS1 US
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 tvg-id="italyvsvenezuela0100foxsportsfhd" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="FIFA World Cup 2026" ,FS1 US
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
+https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
+
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -29,7 +36,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="FIFA World Cup 2026", BBC One (United Kingdom)
-https://xemzi.short.gy/1000001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="FIFA World Cup 2026", WC 1 🇵🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="FIFA World Cup 2026", TSN 1 (Canada)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
