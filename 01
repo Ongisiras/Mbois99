@@ -15,7 +15,7 @@
 
 #################################################################################################
 ##############  FIFA WORLD CUP  #########################
-#EXTINF:-1 tvg-name="TVRI Sport Digital (server 2)" tvg-logo="https://tvri.go.id/storage/tv-channels/xc7pyHkQidwNBCp1TuUIZgUqNuTu86q8scKYY72i.png" tvg-id="Digital.id" group-title=" World Cup 2026",TVRI Sport Digital (server 1)
+#EXTINF:-1 tvg-name="TVRI Sport Digital (server 2)" tvg-logo="https://tvri.go.id/storage/tv-channels/xc7pyHkQidwNBCp1TuUIZgUqNuTu86q8scKYY72i.png" tvg-id="Digital.id" group-title="FIFA World Cup 2026",TVRI Sport Digital (server 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"} 
