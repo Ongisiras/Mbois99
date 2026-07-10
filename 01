@@ -15,6 +15,9 @@
 
 #################################################################################################
 ##############  FIFA WORLD CUP  #########################
+#EXTINF:-1 tvg-logo="https:/w.png" group-title="FIFA World Cup 2026", TVRI SPORT 
+https://pildun.cob.web.id/av1-master.m3u8
+
 #EXTINF:-1 tvg-id="b" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="FIFA World Cup 2026", FS1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
