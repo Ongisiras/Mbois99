@@ -40,6 +40,12 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10g" group-title="🔵MotoGP 2026🏍️💨",SPOTV 2 (VS)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
+#EXTINF:-1 tvg-name="SPOTV 2" tvg-logo="https://i.imgur.com/xnqxVbX.jpeg" tvg-id="SPOTV.id" group-title="🔵MotoGP 2026🏍️💨", SPOTV 2 VD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1100721f731a488a86705c42cdfd9f77:d3c98ca0c290fee026702f59b8341dd6
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
 #EXTINF:-1 group-title="🔵MotoGP 2026🏍️💨" tvg-logo="https://shorter.me/Xydc0" , FANCODE TV 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
