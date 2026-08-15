@@ -12,10 +12,11 @@
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg, https://www.open-epg.com/files/indonesia1.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" vod_library="https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u" refresh="3600" billed-msg="All channel didapat dari berbagai source dan dicari secara manual. Update berkala jika ada channel menarik ;)"
 
 🔵Event MotoGP 2026
-#EXTINF:-1 tvg-name="SPOTV 2" tvg-logo="https://i.imgur.com/xnqxVbX.jpeg" tvg-id="SPOTV.id" group-title="🔵MotoGP 2026🏍️💨", SPOTV 2 VD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1100721f731a488a86705c42cdfd9f77:d3c98ca0c290fee026702f59b8341dd6
+#EXTINF:-1 tvg-name="SPOTV 2" tvg-logo="https://i.imgur.com/xnqxVbX.jpeg" tvg-id="SPOTV.id" group-title="🔵MotoGP 2026🏍️💨", SPOTV 2 V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=120.play
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 tvg-id="italyvsvenezuela0100foxsportsfhd" tvg-logo="L" group-title="🔵MotoGP 2026🏍️💨" ,FS1 US
